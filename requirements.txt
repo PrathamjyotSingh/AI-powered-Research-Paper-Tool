@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+bitsandbytes
+accelerate
+peft
+PyMuPDF
+numpy
+pandas
+scipy
